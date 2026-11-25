@@ -1,0 +1,11 @@
+data,produto,categoria,quantidade,preco_unitario,cidade
+2026-01-03,Cafe 500g,Mercearia,4,18.90,Curitiba
+2026-01-03,Cha verde,Bebidas,2,12.50,Curitiba
+2026-01-04,Cafe 500g,Mercearia,3,18.90,Sao Paulo
+2026-01-04,"Caneca ""Classic""",Casa,1,29.99,Sao Paulo
+2026-01-05,Cha verde,Bebidas,5,12.50,Recife
+2026-01-05,Chocolate amargo,Mercearia,6,8.75,Curitiba
+2026-01-06,"Caneca ""Classic""",Casa,2,29.99,Recife
+2026-01-06,Cafe 500g,Mercearia,2,18.90,
+2026-01-07,Chocolate amargo,Mercearia,3,8.75,Sao Paulo
+2026-01-07,Cha verde,Bebidas,4,12.50,Curitiba
